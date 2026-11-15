@@ -1,0 +1,55 @@
+body{
+    padding: 30px 100px;
+}
+.blakc{
+    background: black;
+    width: 330px;
+    height: 40px;
+    border-radius: 80px;
+}
+.heda_button{
+    background: white;
+    padding: 9px 16px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.heda{
+    color: black;
+    margin-right: 20px;
+    color: #C4C4C4;
+}
+
+.h1{
+    font-size: 100px;
+}
+.scrol_button{
+    background: #F9F9F9;
+    padding: 20px 32px;
+    border-radius: 60px;
+}
+.scrol{
+    color: black;
+}
+
+.backround{
+    background: black;
+    color: white;
+    font-size: 90px;
+}
+
+.size{
+    font-size: 70px;
+}
+.button_foter{
+    background: black;
+    color: white;
+    padding: 30px 50px;
+    border-radius: 100px;
+}
+.margin{
+    margin-right: 170px;
+}
+.margin_riht{
+    margin-right: 20px;
+}
+
